@@ -4,6 +4,7 @@
 
 Leon Template, the first template I made with native HTML and CSS.
 
-I used Normalize.css to make browsers render all elements more consistently and in line with modern standards, and Font Awesome for icons.
+- I used Normalize.css to make browsers render all elements more consistently and in line with modern standards, and Font Awesome for icons.
+- The web page is responsive for all PCs, tablets, and phones.
 
 
